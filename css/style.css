@@ -39,7 +39,7 @@ nav ul li a {
     justify-content: center;
     align-items: center;
     height: 80vh;
-    background: url('/hero_image.jpg') no-repeat center center/cover;
+    background: url('hero_image.jpg') no-repeat center center/cover;
     color: white;
     text-align: center;
 }
